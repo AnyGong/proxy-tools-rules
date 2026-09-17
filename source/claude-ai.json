@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "anthropic-com.ghost.io",
+        "anthropic.auth0.com",
+        "anthropic.com.cdn.cloudflare.net",
+        "browser-intake-us5-datadoghq.com",
+        "cdn.growthbook.io",
+        "cdn.usefathom.com",
+        "servd-anthropic-website.b-cdn.net",
+        "storage.googleapis.com"
+      ],
+      "domain_suffix": [
+        "anthropic.com",
+        "anthropic.com.cn",
+        "anthropic.team",
+        "antspace.dev",
+        "chatbotclaude.com",
+        "clau.de",
+        "claude.ai",
+        "claude.app",
+        "claude.com",
+        "claude.new",
+        "claude.site",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudepages.dev",
+        "claudestudio.com",
+        "claudeusercontent.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "interface.feedback",
+        "lcicat.org",
+        "lcicollections.org",
+        "mcpservertest.online",
+        "modelcontextprotocol.com",
+        "modelcontextprotocol.io",
+        "modelcontextprotocol.net",
+        "modelcontextprotocol.org",
+        "muthos.com",
+        "sentry.io",
+        "sillylittleguy.org",
+        "statsigapi.net",
+        "fastly-edge.com"
+      ],
+      "domain_keyword": [
+        "datadog",
+        "sentry",
+        "sift"
+      ]
+    },
+    {
+      "process_name": [
+        "Claude",
+        "Claude.exe",
+        "claude",
+        "claude.exe",
+        "cowork-svc.exe",
+        "Claude Helper",
+        "claude-code"
+      ]
+    }
+  ]
+}

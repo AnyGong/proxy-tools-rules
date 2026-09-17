@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "augmentcode.com"
+      ]
+    },
+    {
+      "process_name": [
+        "Augment",
+        "Augment.exe",
+        "augment"
+      ]
+    }
+  ]
+}

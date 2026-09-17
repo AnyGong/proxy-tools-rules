@@ -1,0 +1,177 @@
+{
+  "route": {
+    "rules": [
+      {
+        "rule_set": [
+          "direct"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "claude-ai"
+        ],
+        "outbound": "ClaudeAI"
+      },
+      {
+        "rule_set": [
+          "none-cn-ai"
+        ],
+        "outbound": "国外AI"
+      },
+      {
+        "rule_set": [
+          "media-sns"
+        ],
+        "outbound": "媒体社交"
+      },
+      {
+        "rule_set": [
+          "google"
+        ],
+        "outbound": "谷歌服务"
+      },
+      {
+        "rule_set": [
+          "tiktok"
+        ],
+        "outbound": "国际抖音"
+      },
+      {
+        "rule_set": [
+          "devcode-tools"
+        ],
+        "outbound": "开发依赖"
+      },
+      {
+        "rule_set": [
+          "global-cdn"
+        ],
+        "outbound": "全球加速"
+      },
+      {
+        "rule_set": [
+          "direct-ip"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "claude-ai-ip"
+        ],
+        "outbound": "ClaudeAI"
+      },
+      {
+        "rule_set": [
+          "none-cn-ai-ip"
+        ],
+        "outbound": "国外AI"
+      },
+      {
+        "rule_set": [
+          "media-sns-ip"
+        ],
+        "outbound": "媒体社交"
+      },
+      {
+        "rule_set": [
+          "global-cdn-ip"
+        ],
+        "outbound": "全球加速"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "direct",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/direct.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/direct.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "claude-ai",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/claude-ai.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/claude-ai.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "none-cn-ai",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/none-cn-ai.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/none-cn-ai.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "media-sns",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/media-sns.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/media-sns.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "google",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/google.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/google.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "tiktok",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/tiktok.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/tiktok.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "devcode-tools",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/devcode-tools.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/devcode-tools.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "global-cdn",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/global-cdn.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/global-cdn.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "direct-ip",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/direct-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/direct-ip.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "claude-ai-ip",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/claude-ai-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/claude-ai-ip.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "none-cn-ai-ip",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/none-cn-ai-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/none-cn-ai-ip.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "media-sns-ip",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/media-sns-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/media-sns-ip.srs"
+      },
+      {
+        "type": "remote",
+        "tag": "global-cdn-ip",
+        "format": "binary",
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260917_211905748/singbox/global-cdn-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260917_211905748/global-cdn-ip.srs"
+      }
+    ]
+  }
+}
