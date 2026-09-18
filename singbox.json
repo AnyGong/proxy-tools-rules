@@ -85,92 +85,92 @@
         "type": "remote",
         "tag": "direct",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/direct.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/direct.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/direct.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/direct.srs"
       },
       {
         "type": "remote",
         "tag": "claude-ai",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/claude-ai.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/claude-ai.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/claude-ai.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/claude-ai.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/none-cn-ai.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/none-cn-ai.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/none-cn-ai.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/none-cn-ai.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/media-sns.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/media-sns.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/media-sns.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/media-sns.srs"
       },
       {
         "type": "remote",
         "tag": "google",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/google.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/google.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/google.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/google.srs"
       },
       {
         "type": "remote",
         "tag": "tiktok",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/tiktok.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/tiktok.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/tiktok.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/tiktok.srs"
       },
       {
         "type": "remote",
         "tag": "devcode-tools",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/devcode-tools.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/devcode-tools.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/devcode-tools.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/devcode-tools.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/global-cdn.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/global-cdn.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/global-cdn.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/global-cdn.srs"
       },
       {
         "type": "remote",
         "tag": "direct-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/direct-ip.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/direct-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/direct-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/direct-ip.srs"
       },
       {
         "type": "remote",
         "tag": "claude-ai-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/claude-ai-ip.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/claude-ai-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/claude-ai-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/claude-ai-ip.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/none-cn-ai-ip.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/none-cn-ai-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/none-cn-ai-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/none-cn-ai-ip.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/media-sns-ip.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/media-sns-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/media-sns-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/media-sns-ip.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_104516981/singbox/global-cdn-ip.srs",
-        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_104516981/global-cdn-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_163218258/singbox/global-cdn-ip.srs",
+        "initial_path": "/usr/local/etc/sing-box/rule-sets/v20260918_163218258/global-cdn-ip.srs"
       }
     ]
   }
