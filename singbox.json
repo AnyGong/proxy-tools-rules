@@ -85,79 +85,79 @@
         "type": "remote",
         "tag": "direct",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/direct.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/direct.srs"
       },
       {
         "type": "remote",
         "tag": "claude-ai",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/claude-ai.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/claude-ai.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/none-cn-ai.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/none-cn-ai.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/media-sns.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/media-sns.srs"
       },
       {
         "type": "remote",
         "tag": "google",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/google.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/google.srs"
       },
       {
         "type": "remote",
         "tag": "tiktok",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/tiktok.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/tiktok.srs"
       },
       {
         "type": "remote",
         "tag": "devcode-tools",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/devcode-tools.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/devcode-tools.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/global-cdn.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/global-cdn.srs"
       },
       {
         "type": "remote",
         "tag": "direct-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/direct-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/direct-ip.srs"
       },
       {
         "type": "remote",
         "tag": "claude-ai-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/claude-ai-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/claude-ai-ip.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/none-cn-ai-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/none-cn-ai-ip.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/media-sns-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/media-sns-ip.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_214113015/singbox/global-cdn-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260918_215544824/singbox/global-cdn-ip.srs"
       }
     ]
   }
