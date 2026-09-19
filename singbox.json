@@ -79,73 +79,73 @@
         "type": "remote",
         "tag": "claude-ai",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/claude-ai.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/claude-ai.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/none-cn-ai.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/none-cn-ai.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/media-sns.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/media-sns.srs"
       },
       {
         "type": "remote",
         "tag": "google",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/google.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/google.srs"
       },
       {
         "type": "remote",
         "tag": "tiktok",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/tiktok.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/tiktok.srs"
       },
       {
         "type": "remote",
         "tag": "devcode-tools",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/devcode-tools.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/devcode-tools.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/global-cdn.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/global-cdn.srs"
       },
       {
         "type": "remote",
         "tag": "direct-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/direct-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/direct-ip.srs"
       },
       {
         "type": "remote",
         "tag": "claude-ai-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/claude-ai-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/claude-ai-ip.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/none-cn-ai-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/none-cn-ai-ip.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/media-sns-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/media-sns-ip.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn-ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260919_212607181/singbox/global-cdn-ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260920_005050793/singbox/global-cdn-ip.srs"
       }
     ]
   }
