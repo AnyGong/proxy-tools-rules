@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "Claude",
+        "Claude.exe",
+        "claude",
+        "claude.exe",
+        "cowork-svc.exe",
+        "Claude Helper",
+        "claude-code",
+        "ChatGPT",
+        "ChatGPT.exe",
+        "Codex",
+        "Codex.exe",
+        "chatgpt",
+        "codex",
+        "Antigravity",
+        "Antigravity.exe",
+        "antigravity",
+        "Cursor",
+        "Cursor.exe",
+        "cursor",
+        "Windsurf",
+        "Windsurf.exe",
+        "windsurf",
+        "Augment",
+        "Augment.exe",
+        "augment",
+        "Gemini",
+        "Gemini Helper",
+        "Codex Helper",
+        "ChatGPT Helper",
+        "Codex (Service)",
+        "Codex Computer Use",
+        "Cursor Helper",
+        "language_server_macos_arm",
+        "Copilot",
+        "Copilot Helper",
+        "copilot-agent",
+        "cursor-node",
+        "Antigravity IDE",
+        "Antigravity IDE Helper",
+        "Antigravity IDE Helper (Plugin)",
+        "Antigravity Helper",
+        "Antigravity Helper (Plugin)"
+      ]
+    }
+  ]
+}
