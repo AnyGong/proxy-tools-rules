@@ -192,7 +192,8 @@
         "q.us-east-1.amazonaws.com",
         "sso.amazonaws.com",
         "openrouter.ai",
-        "hcaptcha.com"
+        "hcaptcha.com",
+        "muse.ai"
       ],
       "domain_keyword": [
         "datadog",
