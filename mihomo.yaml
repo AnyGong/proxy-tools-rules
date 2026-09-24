@@ -1,15 +1,15 @@
 rule-providers:
-  none-cn-ai_process: { <<: *BehaviorCL, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/none-cn-ai_process.yaml }
-  youtube_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/youtube_domain.mrs }
-  none-cn-ai_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/none-cn-ai_domain.mrs }
-  google_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/google_domain.mrs }
-  media-sns_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/media-sns_domain.mrs }
-  tiktok_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/tiktok_domain.mrs }
-  devcode-tools_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/devcode-tools_domain.mrs }
-  global-cdn_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/global-cdn_domain.mrs }
-  none-cn-ai_ip: { <<: *BehaviorIP, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/none-cn-ai_ip.mrs }
-  media-sns_ip: { <<: *BehaviorIP, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/media-sns_ip.mrs }
-  global-cdn_ip: { <<: *BehaviorIP, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_150709164/mihomo/global-cdn_ip.mrs }
+  none-cn-ai_process: { <<: *BehaviorCL, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/none-cn-ai_process.yaml }
+  youtube_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/youtube_domain.mrs }
+  none-cn-ai_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/none-cn-ai_domain.mrs }
+  google_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/google_domain.mrs }
+  media-sns_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/media-sns_domain.mrs }
+  tiktok_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/tiktok_domain.mrs }
+  devcode-tools_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/devcode-tools_domain.mrs }
+  global-cdn_domain: { <<: *BehaviorDomain, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/global-cdn_domain.mrs }
+  none-cn-ai_ip: { <<: *BehaviorIP, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/none-cn-ai_ip.mrs }
+  media-sns_ip: { <<: *BehaviorIP, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/media-sns_ip.mrs }
+  global-cdn_ip: { <<: *BehaviorIP, url: https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260924_151506544/mihomo/global-cdn_ip.mrs }
 rules:
   - RULE-SET,none-cn-ai_process,🤖 国外AI
   - RULE-SET,youtube_domain,📱 媒体社交
