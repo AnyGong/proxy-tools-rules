@@ -79,73 +79,73 @@
         "type": "remote",
         "tag": "none-cn-ai_process",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/none-cn-ai_process.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/none-cn-ai_process.srs"
       },
       {
         "type": "remote",
         "tag": "youtube_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/youtube_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/youtube_domain.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/none-cn-ai_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/none-cn-ai_domain.srs"
       },
       {
         "type": "remote",
         "tag": "google_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/google_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/google_domain.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/media-sns_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/media-sns_domain.srs"
       },
       {
         "type": "remote",
         "tag": "tiktok_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/tiktok_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/tiktok_domain.srs"
       },
       {
         "type": "remote",
         "tag": "devcode-tools_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/devcode-tools_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/devcode-tools_domain.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn_domain",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/global-cdn_domain.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/global-cdn_domain.srs"
       },
       {
         "type": "remote",
         "tag": "china_ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/china_ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/china_ip.srs"
       },
       {
         "type": "remote",
         "tag": "none-cn-ai_ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/none-cn-ai_ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/none-cn-ai_ip.srs"
       },
       {
         "type": "remote",
         "tag": "media-sns_ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/media-sns_ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/media-sns_ip.srs"
       },
       {
         "type": "remote",
         "tag": "global-cdn_ip",
         "format": "binary",
-        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_033656882/singbox/global-cdn_ip.srs"
+        "url": "https://fastly.jsdelivr.net/gh/AnyGong/proxy-tools-rules@v20260926_065159884/singbox/global-cdn_ip.srs"
       }
     ]
   }
