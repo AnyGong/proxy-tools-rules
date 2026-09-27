@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "paypal.com",
+        "paypal.cn",
+        "paypal.me",
+        "paypalcorp.com",
+        "paypalobjects.com",
+        "paypal-mktg.com",
+        "paypal-communication.com",
+        "beibao.com",
+        "beibao.cn"
+      ]
+    }
+  ]
+}

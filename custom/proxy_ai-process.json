@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "Gemini",
+        "Gemini Helper",
+        "Muse",
+        "EndoCrashpadHandler",
+        "Muse Helper",
+        "Codex",
+        "Codex Helper",
+        "ChatGPT",
+        "ChatGPT Helper",
+        "Codex (Service)",
+        "Codex Computer Use",
+        "Cursor",
+        "Cursor Helper",
+        "language_server_macos_arm",
+        "Copilot",
+        "Copilot Helper",
+        "copilot-agent",
+        "cursor-node",
+        "Antigravity IDE",
+        "Antigravity IDE Helper",
+        "Antigravity IDE Helper (Plugin)",
+        "Antigravity",
+        "Antigravity Helper",
+        "Antigravity Helper (Plugin)"
+      ]
+    },
+    {
+      "process_path": [
+        "/Applications/Muse.app/Contents/MacOS/Muse",
+        "/Applications/Muse.app/Contents/MacOS/Muse EndoCrashpadHandler",
+        "/Applications/ChatGPT.app/Contents/MacOS/ChatGPT",
+        "/Applications/ChatGPT.app/Contents/Resources/codex",
+        "/Applications/Cursor.app/Contents/MacOS/Cursor",
+        "/Applications/Antigravity IDE.app/Contents/MacOS/Electron",
+        "/Applications/Antigravity.app/Contents/MacOS/Electron"
+      ]
+    }
+  ]
+}

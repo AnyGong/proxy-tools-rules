@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix":[
+        "fastly-edge.com"
+      ]
+    },
+    {
+      "process_name": [
+        "Claude",
+        "Claude Helper",
+        "claude-code"
+      ]
+    },
+    {
+      "process_path": [
+        "/Applications/Claude.app/Contents/MacOS/Claude"
+      ]
+    }
+  ]
+}
