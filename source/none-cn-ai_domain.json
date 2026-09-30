@@ -25,6 +25,8 @@
         "cloudaicompanion.googleapis.com",
         "cloudcode-pa.googleapis.com",
         "daily-cloudcode-pa.googleapis.com",
+        "geminiweb-pa.clients.google.com",
+        "geminiweb-pa.clients6.google.com",
         "notebooklm-pa.googleapis.com",
         "notebooklm.googleapis.com",
         "webchannel-alkalimakersuite-pa.clients6.google.com",
@@ -140,6 +142,7 @@
         "jules.google.com",
         "labs.google",
         "labs.google.com",
+        "labstailwind.pa.googleapis.com",
         "makersuite.google.com",
         "notebook.google",
         "notebook.google.com",
@@ -161,6 +164,8 @@
         "llama.com",
         "llamameta.net",
         "meta.ai",
+        "metaaivm.com",
+        "muse.ai",
         "mistral.ai",
         "api.microsoftapp.net",
         "bing-shopping.microsoft-falcon.io",
@@ -192,8 +197,7 @@
         "q.us-east-1.amazonaws.com",
         "sso.amazonaws.com",
         "openrouter.ai",
-        "hcaptcha.com",
-        "muse.ai"
+        "hcaptcha.com"
       ],
       "domain_keyword": [
         "datadog",
