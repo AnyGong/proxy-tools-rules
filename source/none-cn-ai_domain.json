@@ -60,6 +60,8 @@
         "q-developer-integration.us-east-1.api.aws"
       ],
       "domain_suffix": [
+        "//github.com/aprilnea/reverse-engineering-claude-code-antspace",
+        "ant.dev",
         "anthropic.com",
         "anthropic.com.cn",
         "anthropic.team",
@@ -72,6 +74,7 @@
         "claude.dev",
         "claude.new",
         "claude.site",
+        "claudeacademy.com",
         "claudemcpclient.com",
         "claudemcpcontent.com",
         "claudepages.dev",
